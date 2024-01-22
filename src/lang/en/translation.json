@@ -1,0 +1,44 @@
+{
+  "Buttons": {
+    "view_button": "View",
+    "edit_button": "Edit",
+    "delete_button": "Delete",
+    "register_user": "Register User",
+    "submit": "Submit",
+    "reset": "Reset",
+    "cancel": "Cancel",
+    "share_url": "Share Url",
+    "back": "Back"
+  },
+  "Headings": {
+    "id": "ID",
+    "fullname": "FullName",
+    "username": "UserName",
+    "action": "Action",
+    "user_details": "User Details"
+  },
+  "ModalTitles": {
+    "register_user": "Register User",
+    "view_user": "View User",
+    "edit_user": "Edit User",
+    "view_news": "View News",
+    "delete_user": "Delete User"
+  },
+  "Menu": {
+    "users": "Users",
+    "news": "News"
+  },
+  "Message": {
+    "user_registered": "User registered successfully",
+    "user_updated": "User updated successfully",
+    "user_deleted": "User deleted successfully",
+    "confirmation_message": "Are you sure want to delete this user?",
+    "no_user_record_found": "No user records found",
+    "error_copy": "Error copying to clipboard",
+    "url_copied_success": "Url has been copied successfully"
+  },
+  "Validations": {
+    "fullname_required": "Fullname is required!",
+    "username_required": "Username is required!"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Buttons": {
+    "view_button": "Ver",
+    "edit_button": "Editar",
+    "delete_button": "Eliminar",
+    "register_user": "Registrar Usuario",
+    "submit": "Enviar",
+    "reset": "Restablecer",
+    "cancel": "Cancelar",
+    "share_url": "Compartir URL",
+    "back": "Volver"
+  },
+  "Headings": {
+    "id": "ID",
+    "fullname": "Nombre completo",
+    "username": "Nombre de usuario",
+    "action": "Acción",
+    "user_details": "Detalles del Usuario"
+  },
+  "ModalTitles": {
+    "register_user": "Registrar Usuario",
+    "view_user": "Ver Usuario",
+    "edit_user": "Editar Usuario",
+    "view_news": "Ver Noticias",
+    "delete_user": "Eliminar Usuario"
+  },
+  "Menu": {
+    "users": "Usuarios",
+    "news": "Noticias"
+  },
+  "Message": {
+    "user_registered": "Usuario registrado exitosamente",
+    "user_updated": "Usuario actualizado exitosamente",
+    "user_deleted": "Usuario eliminado exitosamente",
+    "confirmation_message": "¿Está seguro de querer eliminar a este usuario?",
+    "no_user_record_found": "No se encontraron registros de usuarios",
+    "error_copy": "Error al copiar al portapapeles",
+    "url_copied_success": "URL copiada exitosamente"
+  },
+  "Validations": {
+    "fullname_required": "¡Se requiere el nombre completo!",
+    "username_required": "¡Se requiere el nombre de usuario!"
+  }
+}
