@@ -1,3 +1,11 @@
+.userList {
+    padding: 10px;
+}
+
+.userList h2 {
+    padding-top: 20px;
+}
+
 .action-button {
     margin-right: 5px !important;
 }

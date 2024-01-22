@@ -16,7 +16,6 @@ This Project is a Simple ReactJS Project which demonstrates the following
 6. Delete user details
 7. View News
 8. News Listing
-9. Filter by Date
 
 The project Template can be used to build bigger projects
 

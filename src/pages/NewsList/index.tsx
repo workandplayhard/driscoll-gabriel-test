@@ -41,6 +41,7 @@ export const NewsListView: React.FC = () => {
     <Layout>
       <Sidebar />
       <div id="page-content-wrapper">
+        <h2>NewsList</h2>
         <div className="newsList container-fluid mt-4 mb-4">
           <div className="row">
             {newsList?.length > 0 &&

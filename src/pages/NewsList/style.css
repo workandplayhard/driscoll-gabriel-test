@@ -1,12 +1,17 @@
+h2 {
+    padding-top: 20px;
+}
+
 .newsList .card {
     text-align: left !important;
 }
+
 .newsList .card-footer {
     display: flex;
     justify-content: flex-start;
     align-items: center;
 }
+
 .newsList .action-button {
     margin-left: auto !important;
-    
 }
