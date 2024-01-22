@@ -8,9 +8,11 @@ import { useDispatch, useSelector } from "react-redux";
 import { Action } from "redux";
 import { ThunkDispatch } from "redux-thunk";
 import { toast } from "react-toastify";
+
 import { RootState } from "../../types/types";
 import { PopupModal } from "../../components";
 import { createUser } from "../../store/actions/userActions";
+
 interface Props {
   show: boolean;
   onHide: () => void;

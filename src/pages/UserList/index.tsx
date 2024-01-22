@@ -3,11 +3,13 @@ import { useSelector } from "react-redux";
 import { Button, Table } from "react-bootstrap";
 import { useTranslation } from "react-i18next";
 import { toast } from "react-toastify";
+
 import { Header, Layout, Sidebar } from "../../components";
 import { EditModal } from "./EditModal";
 import { ViewModal } from "./ViewModal";
 import { DeleteModal } from "./DeleteModal";
 import { RootState, UserData } from "../../types/types";
+
 import "./style.css";
 
 export const UserListView: React.FC = () => {

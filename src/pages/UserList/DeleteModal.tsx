@@ -5,9 +5,11 @@ import { useDispatch } from "react-redux";
 import { ThunkDispatch } from "redux-thunk";
 import { Action } from "redux";
 import { toast } from "react-toastify";
+
 import { PopupModal } from "../../components";
 import { RootState, UserData } from "../../types/types";
 import { deleteUser } from "../../store/actions/userActions";
+
 interface Props {
   show: boolean;
   onHide: () => void;

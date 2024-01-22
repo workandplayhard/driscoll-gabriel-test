@@ -1,7 +1,9 @@
 import React from "react";
 import { useTranslation } from "react-i18next";
+
 import { PopupModal } from "../../components";
 import { NewsData } from "../../types/types";
+
 interface Props {
   show: boolean;
   onHide: () => void;

@@ -4,10 +4,12 @@ import { Button } from "react-bootstrap";
 import { useTranslation } from "react-i18next";
 import { Action } from "redux";
 import { ThunkDispatch } from "redux-thunk";
+
 import { Layout, Sidebar } from "../../components";
 import { ViewModal } from "./ViewModal";
 import { NewsData, RootState } from "../../types/types";
 import { getNewsList } from "../../store/actions/newsActions";
+
 import "./style.css";
 
 export const NewsListView: React.FC = () => {

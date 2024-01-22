@@ -1,5 +1,6 @@
 import React, { ReactNode } from "react";
 import { Modal, ModalBody } from "react-bootstrap";
+
 interface Props {
   className?: string;
   show: boolean;
